@@ -21,7 +21,7 @@ print("Bản Quyền By: \033[1;95mNguyen Thanh Vinh")
 print("\033[1;37mTool Share ảo Token Max Speed")
 print("Deface, Unlock, Thuê Bot DDoS Zalo: 0927423239")
 boquy="\033[1;37m~\033[1;31m[\033[1;32m✔\033[1;31m]\033[1;37m =>"
-tvinh="\033[1;33m──────────────────────────────────────────────────────────────────────                 "
+quydz="\033[1;33m──────────────────────────────────────────────────────────────────────                 "
 def banner():
  banner = f"""
 """
